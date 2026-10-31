@@ -1,0 +1,27 @@
+# 依赖
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+node_modules/
+dist/
+build/
+
+# 密钥与环境（真实值请勿提交）
+.env
+.env.local
+*.pem
+*.key
+
+# 数据与缓存
+*.db
+*.sqlite3
+*.log
+__pycache__/
+
+# 系统 / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
